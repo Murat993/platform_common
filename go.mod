@@ -1,4 +1,4 @@
-module github.com/olezhek28/platform_common
+module github.com/Murat993/platform_common
 
 go 1.20
 
